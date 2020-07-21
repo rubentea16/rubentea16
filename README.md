@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/rubentea16/rubentea16/master/hello.gif" alt="Coder GIF" width="500" height="200"></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/rubentea16/rubentea16/master/hello.gif" alt="Coder GIF" width="500" height="150"></h1>
 <h3 align="center">I'm Ruben Stefanus</h1>
 <h3 align="center">Self Proclaimed Data Wizard 🧙‍♂️ from Indonesia 🇮🇩</h3>
 <h3 align="center"><img src="https://raw.githubusercontent.com/rubentea16/rubentea16/master/giphy.gif" alt="Coder GIF" width="250" height="250"></h3>
@@ -12,7 +12,7 @@
 
 - :milky_way: I’m currently working on [Jakarta Artificial Intelligence Research](https://github.com/jakartaresearch)
 
-- :octocat: All of my projects are available at [website](https://rubentea16.github.io/)
+- :octocat: Curious about me ? go there [website](https://rubentea16.github.io/)
 
 - 💬 Ask me about **AI, ML, Data Science, Python, etc**
 
