@@ -4,9 +4,9 @@
 
 - ⚡ I’m currently working on [Jakarta Artificial Intelligence Research](https://github.com/jakartaresearch)
 
-- 👨‍💻 All of my projects are available at [https://rubentea16.github.io/](https://rubentea16.github.io/)
+- 👨‍💻 All of my projects are available at [website](https://rubentea16.github.io/)
 
-- 📝 I regulary write articles on [https://medium.com/@rstefanus16](https://medium.com/@rstefanus16)
+- 📝 I regulary write articles on [medium](https://medium.com/@rstefanus16)
 
 - 💬 Ask me about **AI, ML, Data Science, Python, etc**
 
