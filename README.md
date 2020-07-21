@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ruben Stefanus</h1>
 <h3 align="center">self proclaimed data wizard 🧙‍♂️ from Indonesia 🇮🇩</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rubentea16" alt="rubentea16" /> </p>
+<h3 align="center"><img src="https://raw.githubusercontent.com/rubentea16/rubentea16/master/giphy.gif" alt="Coder GIF" width="250" height="250"></h3>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/rubentea16/rubentea16/master/giphy.gif" alt="Coder GIF" width="250" height="250"></h3> 
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=rubentea16" alt="rubentea16" /> </h3>
+
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/rubenstefanus/)
+[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/rubenstefanus)
+[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
+[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
 
 - ⚡ I’m currently working on [Jakarta Artificial Intelligence Research](https://github.com/jakartaresearch)
 
