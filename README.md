@@ -26,6 +26,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-peach?style=flat-square&logo=SQL)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubeflow](https://img.shields.io/badge/-Kubeflow-blue?style=flat-square&logo=Kubeflow)
+![Pandas](https://img.shields.io/badge/-Pandas-purple?style=flat-square&logo=Pandas)
+![Jupyterlab](https://img.shields.io/badge/-Jupyterlab-gold?style=flat-square&logo=Jupyterlab)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
