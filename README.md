@@ -2,6 +2,8 @@
 <h3 align="center">self proclaimed data wizard 🧙‍♂️ from Indonesia 🇮🇩</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubentea16" alt="rubentea16" /> </p>
 
+<h3 align="center"><img src="giphy.gif" alt="Coder GIF" width="350" height="350"></h3> 
+
 - ⚡ I’m currently working on [Jakarta Artificial Intelligence Research](https://github.com/jakartaresearch)
 
 - 👨‍💻 All of my projects are available at [website](https://rubentea16.github.io/)
