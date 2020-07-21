@@ -9,9 +9,9 @@
 [![Medium Badge](https://img.shields.io/badge/-@rstefanus16-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rstefanus16)](https://medium.com/@rstefanus16)
 [![Gmail Badge](https://img.shields.io/badge/-rstefanus16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rstefanus16@gmail.com)](mailto:rstefanus16@gmail.com)
 
-- ⚡ I’m currently working on [Jakarta Artificial Intelligence Research](https://github.com/jakartaresearch)
+- :milky_way: I’m currently working on [Jakarta Artificial Intelligence Research](https://github.com/jakartaresearch)
 
-- 👨‍💻 All of my projects are available at [website](https://rubentea16.github.io/)
+- :octocat: All of my projects are available at [website](https://rubentea16.github.io/)
 
 - 💬 Ask me about **AI, ML, Data Science, Python, etc**
 
@@ -29,5 +29,3 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rubentea16&show_icons=true)
-
-
