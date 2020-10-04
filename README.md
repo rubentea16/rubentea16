@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/rubentea16/rubentea16/master/hello.gif" alt="Coder GIF" width="500" height="150"></h1>
 <h3 align="center">I'm Ruben Stefanus</h1>
-<h3 align="center">Self Proclaimed Data Wizard 🧙‍♂️ from Indonesia 🇮🇩</h3>
+<h3 align="center">Self Proclaimed Data Wizard 🧙‍♂️ from Indonesia</h3>
 <h3 align="center"><img src="https://raw.githubusercontent.com/rubentea16/rubentea16/master/giphy.gif" alt="Coder GIF" width="250" height="250"></h3>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rubentea16.rubentea16)
