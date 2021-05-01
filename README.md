@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/rubentea16/rubentea16/master/hello.gif" alt="Coder GIF" width="500" height="150"></h1>
 <h3 align="center">I'm Ruben Stefanus</h1>
-<h3 align="center">Self Proclaimed Data Wizard 🧙‍♂️ from Indonesia</h3>
+<h3 align="center">Data Wizard 🧙‍♂️ from Indonesia</h3>
 <h3 align="center"><img src="https://raw.githubusercontent.com/rubentea16/rubentea16/master/giphy.gif" alt="Coder GIF" width="250" height="250"></h3>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rubentea16.rubentea16)
@@ -10,9 +10,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@rstefanus16-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rstefanus16)](https://medium.com/@rstefanus16)
 [![Gmail Badge](https://img.shields.io/badge/-rstefanus16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rstefanus16@gmail.com)](mailto:rstefanus16@gmail.com)
 
-- :milky_way: I’m currently working on [Jakarta Artificial Intelligence Research](https://github.com/jakartaresearch)
-
-- :octocat: Curious about me ? go there [website](https://rubentea16.github.io/)
+- :milky_way: I’m currently developing and contributing on [Jakarta Artificial Intelligence Research](https://github.com/jakartaresearch)
 
 - 💬 Ask me about **AI, ML, Data Science, Python, etc**
 
