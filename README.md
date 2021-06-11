@@ -16,20 +16,21 @@
 ![Pytorch](https://img.shields.io/badge/-Pytorch-pink?style=flat-square&logo=Pytorch)
 ![TensorFlow](https://img.shields.io/badge/-Tensorflow-blue?style=flat-square&logo=Tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-gray?style=flat-square&logo=Keras)
+![Spark](https://img.shields.io/badge/-Spark-purple?style=flat-square&logo=Spark)
 ![SQL](https://img.shields.io/badge/-SQL-peach?style=flat-square&logo=SQL)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=flat-square&logo=Kubernetes)
 ![Kubeflow](https://img.shields.io/badge/-Kubeflow-blue?style=flat-square&logo=Kubeflow)
 ![Pandas](https://img.shields.io/badge/-Pandas-purple?style=flat-square&logo=Pandas)
 ![Jupyterlab](https://img.shields.io/badge/-Jupyterlab-gold?style=flat-square&logo=Jupyterlab)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ##
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rubentea16&show_icons=true&theme=outrun)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubentea16&layout=compact&theme=react)](https://github.com/rubentea16/github-readme-stats)
+
 [![maleo](https://github-readme-stats.vercel.app/api/pin/?username=jakartaresearch&repo=maleo&theme=dracula)](https://github.com/jakartaresearch/maleo)
 [![earth vision](https://github-readme-stats.vercel.app/api/pin/?username=jakartaresearch&repo=earth-vision&theme=dracula)](https://github.com/jakartaresearch/earth-vision)
