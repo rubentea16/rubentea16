@@ -6,8 +6,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rubentea16.rubentea16)
 
 [![Linkedin Badge](https://img.shields.io/badge/-rubenstefanus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubenstefanus/)](https://www.linkedin.com/in/rubenstefanus/)
-[![Instagram Badge](https://img.shields.io/badge/-rubenstefanus-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rubenstefanus/)](https://instagram.com/rubenstefanus)
-[![Medium Badge](https://img.shields.io/badge/-@rstefanus16-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rstefanus16)](https://medium.com/@rstefanus16)
+[![Instagram Badge](https://img.shields.io/badge/-rubztef-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rubztef/)](https://instagram.com/rubztef)
 [![Gmail Badge](https://img.shields.io/badge/-rstefanus16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rstefanus16@gmail.com)](mailto:rstefanus16@gmail.com)
 
 - :milky_way: I’m currently developing and contributing on [Jakarta Artificial Intelligence Research](https://github.com/jakartaresearch)
@@ -15,7 +14,7 @@
 - 💬 Ask me about **AI, ML, Data Science, Python, etc**
 
 
-## ⚡ Technologies
+## ⚡ Technology Stacks
 
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-pink?style=flat-square&logo=Pytorch)
@@ -32,4 +31,4 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rubentea16&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rubentea16&show_icons=true&theme=outrun)
