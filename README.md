@@ -1,18 +1,14 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/rubentea16/rubentea16/master/hello.gif" alt="Coder GIF" width="500" height="150"></h1>
-<h3 align="center">I'm Ruben Stefanus</h1>
-<h3 align="center">Data Wizard 🧙‍♂️ from Indonesia</h3>
-<h3 align="center"><img src="https://raw.githubusercontent.com/rubentea16/rubentea16/master/giphy.gif" alt="Coder GIF" width="250" height="250"></h3>
+### Hi there, I'm Ruben Stefanus ! 👋
+- 🧙‍ Data Wizard from Indonesia
+- :milky_way: I’m currently developing and contributing on [Jakarta Artificial Intelligence Research](https://github.com/jakartaresearch)
+- I'm passionate about making an impact and solving real problems
+- I like to meet people over coffee ☕️ and have a deep talk 🗣
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rubentea16.rubentea16)
 
 [![Linkedin Badge](https://img.shields.io/badge/-rubenstefanus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubenstefanus/)](https://www.linkedin.com/in/rubenstefanus/)
 [![Instagram Badge](https://img.shields.io/badge/-rubztef-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rubztef/)](https://instagram.com/rubztef)
 [![Gmail Badge](https://img.shields.io/badge/-rstefanus16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rstefanus16@gmail.com)](mailto:rstefanus16@gmail.com)
-
-- :milky_way: I’m currently developing and contributing on [Jakarta Artificial Intelligence Research](https://github.com/jakartaresearch)
-
-- 💬 Ask me about **AI, ML, Data Science, Python, etc**
-
 
 ## ⚡ Technology Stacks
 
@@ -31,4 +27,9 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
+##
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rubentea16&show_icons=true&theme=outrun)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubentea16&layout=compact&theme=react)](https://github.com/rubentea16/github-readme-stats)
+[![maleo](https://github-readme-stats.vercel.app/api/pin/?username=jakartaresearch&repo=maleo&theme=dracula)](https://github.com/jakartaresearch/maleo)
+[![earth vision](https://github-readme-stats.vercel.app/api/pin/?username=jakartaresearch&repo=earth-vision&theme=dracula)](https://github.com/jakartaresearch/earth-vision)
