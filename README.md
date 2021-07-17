@@ -1,8 +1,9 @@
 ### Hi there, I'm Ruben Stefanus ! 👋
+- :sparkles: Bringing ***research*** and ***innovation*** into the ***real world***
 - 🧙‍ Data Wizard from Indonesia
 - :milky_way: I’m currently developing and contributing on [Jakarta Artificial Intelligence Research](https://github.com/jakartaresearch)
-- I'm passionate about making an impact and solving real problems
-- I like to meet people over coffee ☕️ and have a deep talk 🗣
+- :fire: I'm passionate about making an impact and solving real problems
+- :memo: I like to meet people over coffee ☕️ and have a deep talk 🗣
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rubentea16.rubentea16)
 
