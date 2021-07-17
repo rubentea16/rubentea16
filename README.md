@@ -3,7 +3,7 @@
 - 🧙‍ Data Wizard from Indonesia
 - :milky_way: I’m currently developing and contributing on [Jakarta Artificial Intelligence Research](https://github.com/jakartaresearch)
 - :fire: I'm passionate about making an impact and solving real problems
-- :memo: I like to meet people over coffee ☕️ and have a deep talk 🗣
+- :memo: I like to meet people over coffee ☕️
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rubentea16.rubentea16)
 
