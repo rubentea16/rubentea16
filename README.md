@@ -33,5 +33,6 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rubentea16&show_icons=true&theme=outrun)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubentea16&layout=compact&theme=react)](https://github.com/rubentea16/github-readme-stats)
 
+[![receipt ocr](https://github-readme-stats.vercel.app/api/pin/?username=jakartaresearch&repo=receipt-ocr&theme=dracula)](https://github.com/jakartaresearch/receipt-ocr)
 [![maleo](https://github-readme-stats.vercel.app/api/pin/?username=jakartaresearch&repo=maleo&theme=dracula)](https://github.com/jakartaresearch/maleo)
 [![earth vision](https://github-readme-stats.vercel.app/api/pin/?username=jakartaresearch&repo=earth-vision&theme=dracula)](https://github.com/jakartaresearch/earth-vision)
